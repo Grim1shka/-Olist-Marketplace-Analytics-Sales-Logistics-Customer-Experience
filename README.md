@@ -1,8 +1,8 @@
 # -Olist-Marketplace-Analytics-Sales-Logistics-Customer-Experience
 🇷🇺 Аналитика маркетплейса Olist: продажи, логистика и клиентский опыт 
 -----------------------------------------------------------------------------------------------------------------------------
-# 📊 Olist Marketplace Analytics: Sales, Logistics & Customer Experience  
-# 📊 Аналитика маркетплейса Olist: продажи, логистика и клиентский опыт
+#  Olist Marketplace Analytics: Sales, Logistics & Customer Experience  
+#  Аналитика маркетплейса Olist: продажи, логистика и клиентский опыт
 
 ---
 
@@ -119,25 +119,34 @@ delivery_days = дата доставки - дата покупки
 - клиенты
 - средний чек
 - динамика продаж
+- <img width="1649" height="934" alt="image" src="https://github.com/user-attachments/assets/51f01d57-7001-47e5-b48c-c81cc658b291" />
+
 
 Страница 2: География
 - продажи по штатам
 - заказы по регионам
+- <img width="1673" height="941" alt="image" src="https://github.com/user-attachments/assets/9529d0db-60f9-42b4-b97d-2d6a4ced85bf" />
+
 
 Страница 3: Продавцы
 - топ продавцов
 - распределение продаж
 - концентрация выручки
+- <img width="1676" height="944" alt="image" src="https://github.com/user-attachments/assets/8fdc4a95-f9dc-4b3d-ae3b-44f4697e09b4" />
+
 
 Страница 4: Логистика
 - среднее время доставки
 - распределение сроков доставки
 - анализ по регионам
+- <img width="1690" height="960" alt="image" src="https://github.com/user-attachments/assets/e16f6a13-5812-4062-9fb8-5966817b1a62" />
+
 
 Страница 5: Отзывы
 - средний рейтинг
 - распределение оценок
 - связь доставки и рейтинга
+<img width="1688" height="953" alt="image" src="https://github.com/user-attachments/assets/846cc3dd-f647-499a-8d32-37de42e3b29e" />
 
 ------------------------------------------------------------
 
